@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>459431224.45516902</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>DisplayKind</key>
+						<string>None</string>
+						<key>IncludeStdErr</key>
+						<false/>
+						<key>MacroActionType</key>
+						<string>ExecuteAppleScript</string>
+						<key>NotifyOnFailure</key>
+						<false/>
+						<key>Path</key>
+						<string>~/Library/Scripts/Applications/Path Finder/Focus PF Search Field.scpt</string>
+						<key>StopOnFailure</key>
+						<false/>
+						<key>Text</key>
+						<string></string>
+						<key>TimeOutAbortsMacro</key>
+						<true/>
+						<key>TrimResults</key>
+						<true/>
+						<key>TrimResultsNew</key>
+						<true/>
+						<key>UseText</key>
+						<false/>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>574715557.26542795</real>
+				<key>ModificationDate</key>
+				<real>575494354.37505805</real>
+				<key>Name</key>
+				<string>Focus PF Search Field</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>3</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>2304</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>C9B3CCA7-E82B-4954-BE8E-CB3A7CCAEA9C</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Path Finder</string>
+		<key>Targeting</key>
+		<dict>
+			<key>Targeting</key>
+			<string>Included</string>
+			<key>TargetingApps</key>
+			<array>
+				<dict>
+					<key>BundleIdentifier</key>
+					<string>com.cocoatech.PathFinder</string>
+					<key>Name</key>
+					<string>Path Finder</string>
+					<key>NewFile</key>
+					<string>/Applications/Path Finder.app</string>
+				</dict>
+			</array>
+		</dict>
+		<key>ToggleMacroUID</key>
+		<string>82311FDA-5231-4812-B91F-8C5E84BEF2B2</string>
+		<key>UID</key>
+		<string>82C17871-F9AD-43B0-950A-9DD6F7A82CAD</string>
+	</dict>
+</array>
+</plist>
